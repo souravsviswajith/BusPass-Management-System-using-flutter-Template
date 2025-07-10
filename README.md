@@ -147,5 +147,5 @@ If you are new to Flutter, the following resources can help you get started:
 For referance
 ### 📺 Tutorial: Flutter for Beginners
 
-[![The Ultimate Flutter Tutorial for Beginners](click👇🏻)](https://youtu.be/3kaGC_DrUnw?si=fFG-jykOmQ5TTC9s)
+[![Refer here](click👇🏻)](https://youtu.be/3kaGC_DrUnw?si=fFG-jykOmQ5TTC9s)
 
