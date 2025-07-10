@@ -144,4 +144,8 @@ If you are new to Flutter, the following resources can help you get started:
 *   [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 *   [Flutter Online Documentation](https://flutter.dev/docs): Offers tutorials, samples, guidance on mobile development, and a full API reference.
 
+For referance
+### 📺 Tutorial: Flutter for Beginners
+
+[![The Ultimate Flutter Tutorial for Beginners](https://img.youtube.com/vi/3kaGC_DrUnw/0.jpg)](https://youtu.be/3kaGC_DrUnw?si=fFG-jykOmQ5TTC9s)
 
